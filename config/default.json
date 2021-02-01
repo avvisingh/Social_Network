@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://socialnetwork123:socialnetwork123@social-network.8vcig.mongodb.net/test?retryWrites=true"
+    "mongoURI": "mongodb+srv://socialnetwork123:socialnetwork123@social-network.8vcig.mongodb.net/test?retryWrites=true",
+    "jwtSecret": "thisissecret"
 }
